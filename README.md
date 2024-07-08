@@ -63,8 +63,8 @@
 
 ![Postgres](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 &nbsp;
-![Static Badge](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)
-
+![Static Badge](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)&nbsp;
+![Static Badge](https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 </details>
 
 <details open>
