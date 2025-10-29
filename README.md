@@ -1,26 +1,6 @@
 <p align="center">
-👋 Hello! I'm FG, a Computer Engineering student 💻 with a keen interest in web development. I'm constantly seeking new challenges and projects that push the boundaries of what I can create on the web. My goal is to build seamless, user-friendly digital experiences that make a difference. 👀 Check out my repositories to see the work I've done and what I'm currently tinkering with. 💚Let's connect and collaborate on future innovations!
+👋 Hello! I'm FG
 </p >
-
-## ⌚ About Me
-
-- 🔭 I’m currently studying **Front End Web Development**.
-
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/FG-ABC)!.
-
-- 🌎 Fluent in **English** and **Tagalog/Filipino** 📖
-
-## 🏆 Goals
-
-- 🚀 To Master a variety of programming languages and technologies to remain versatile and adaptable in the ever-evolving web landscape.
-- 🌐 To Continuously learning and staying updated with the latest web development trends and best practices to maintain a competitive edge in the industry.
-- 🎨 To Build a robust portfolio that showcases a range of skills, from front-end to back-end development, to attract potential employers or clients.
-
-## 📈 Achievements
-
-- 🎉 I completed 15 projects on Frontend Mentor and shared my code with others.
-- 🐘 I finished Dr. Angela Yu's Complete Web Development Bootcamp in which I learned full stack web development in the PERN tech stack.
-- 📊 I completed J.P. Morgan's Software Engineering Virtual Experience wherein I fixed bugs and analyzed data for their web app.
 
 <br>
 <h2 align="left">📊 Github Stats</h2>
